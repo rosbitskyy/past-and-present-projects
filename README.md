@@ -1,4 +1,4 @@
-# 🇺🇦[Creditbox](https://creditbox.in.ua/), [DPDmarket](https://dpdmarket.com/), [UCP](https://ucp.rrs.pp.ua/)
+# 🇺🇦 Project: [Creditbox](https://creditbox.in.ua/), [DPDmarket](https://dpdmarket.com/), [UCP](https://ucp.rrs.pp.ua/)
 ## Serverside
 ### API
 * Runtime environment:
@@ -36,7 +36,7 @@
   components.)
 
 
-# 🇺🇦[Купуй безпечно](https://www.me.gov.ua/Documents/Detail?lang=uk-UA&isSpecial=True&id=34dfc92d-b2eb-4750-929a-a2c221862683&title=MobilniiDodatokkupuiBezpechne), [Кредит-комерц](https://www.facebook.com/mgroshi/)
+# 🇺🇦 Project: [Купуй безпечно](https://www.me.gov.ua/Documents/Detail?lang=uk-UA&isSpecial=True&id=34dfc92d-b2eb-4750-929a-a2c221862683&title=MobilniiDodatokkupuiBezpechne), [Кредит-комерц](https://www.facebook.com/mgroshi/)
 ## Serverside
 ### API, Full stack
 * Runtime environment: [Java EE](https://www.java.com)
@@ -53,7 +53,7 @@
 * [React Native](https://reactnative.dev/) (not published)
 
 
-# 🇺🇦[Міністерство економіки](https://me.gov.ua),[Київська держ адміністрація](https://kyivcity.gov.ua/)
+# 🇺🇦 Project: [Міністерство економіки](https://me.gov.ua),[Київська держ адміністрація](https://kyivcity.gov.ua/)
 ## Serverside
 ### Full stack
 * Runtime environment: [CLR .NET](https://en.wikipedia.org/wiki/.NET_Framework) (*IT IS* proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows.)
@@ -62,7 +62,7 @@
   * [.NET FCL](https://en.wikipedia.org/wiki/Framework_Class_Library) (VMC Framework Class Library ...)
 
 
-# [Radius Taxi](https://m.facebook.com/people/Radius-Taxi/100012146658852/)
+# 🇺🇦 Project: [Radius Taxi](https://m.facebook.com/people/Radius-Taxi/100012146658852/)
 ## Serverside
 ### API, Full stack
 * Runtime environment: [Java EE](https://www.java.com)
@@ -80,7 +80,7 @@
 * iOS: [Appcelerator Titanium](https://titaniumsdk.com/guide/Titanium_SDK/Titanium_SDK_Getting_Started/Titanium_Platform_Overview.html)
 
 
-# 🇺🇦 Other projects
+# 🇺🇦 Project: Other ...
 ## Serverside
 ### API, Full stack
 * Runtime environment: [Java EE](https://www.java.com)
