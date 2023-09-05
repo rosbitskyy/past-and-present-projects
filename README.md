@@ -2,7 +2,7 @@
 ## Serverside
 ### API
 * Runtime environment:
-  [Node.js 18.x](https://nodejs.org/uk),
+  [Node.js 18.x.x](https://nodejs.org/uk),
   [Java EE](https://www.java.com)
 * Data storage:
   - [Mongodb](https://www.mongodb.com/) (MongoDB is a source-available cross-platform document-oriented database
