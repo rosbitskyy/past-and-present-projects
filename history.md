@@ -30,6 +30,7 @@
 
 ### [Навички](https://github.com/rosbitskyy/past-and-present-projects/blob/main/README.md):
 - Програмування: JAVA SE/EE/ME, .NET(c#), Node.js, JavaScript(TypeScript)
+- Середовище: UNIX, Linux
 - Веб-розробка: GWT, Vaadin, ReactJS
 - Бази даних: Oracle(8 - 10g), PostgreSQL, MSSQL, MYSQL, Redis, MongoDB
 - Інструменти розробки: IntelliJ IDEA, GitLab, GitHub, NpmJS
