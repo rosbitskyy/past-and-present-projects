@@ -30,8 +30,9 @@ Email: rosxxxxx@gmail.com
 
 ### Skills:
 - Programming: JAVA SE/EE/ME, .NET(c#), Node.js, JavaScript(TypeScript)
+- Systems: UNIX, Linux, Windows
 - Web Development: GWT, Vaadin, ReactJS
-- Databases: PostgreSQL, MSSQL, MYSQL, Redis, MongoDB
+- Databases: Oracle(8 - 10g), PostgreSQL, MSSQL, MYSQL, Redis, MongoDB
 - Development Tools: IntelliJ IDEA, GitLab, GitHub, NpmJS
 
 ### Projects:
