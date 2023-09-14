@@ -6,7 +6,7 @@ Phone: +38067xxxxxxx
 Email: rosxxxxx@gmail.com
 ---
 
-**Work Experience:**
+### Work Experience:
 
 *IT Director*
 - Locations: Zhytomyr, Kyiv
@@ -25,16 +25,16 @@ Email: rosxxxxx@gmail.com
 - Company: N.A.Group FC LLC
 - Period: 2019 - Present
 
-**Education:**
+### Education:
 - Zhytomyr Polytechnic Institute
 
-**Skills:**
+### Skills:
 - Programming: JAVA SE/EE/ME, .NET(c#), Node.js, JavaScript(TypeScript)
 - Web Development: GWT, Vaadin, ReactJS
 - Databases: PostgreSQL, MSSQL, MYSQL, Redis, MongoDB
 - Development Tools: IntelliJ IDEA, GitLab, GitHub, NpmJS
 
-**Projects:**
+### Projects:
 1. **Project: Creditbox**
     - Server-side
     - API
@@ -74,5 +74,5 @@ Email: rosxxxxx@gmail.com
     - Frameworks: Grails, GWT, Vaadin, Redis
     - Client-side: Android applications for taxi services
 
-**Additional Information:**
+### Additional Information:
 In recent years, I have been involved in the development of distributed, high-load microservices using Node.js, ReactJS, MongoDB, Redis, and Node-Red.
