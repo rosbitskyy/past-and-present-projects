@@ -10,7 +10,7 @@ Email: rosxxxxx@gmail.com
 
 *IT Director*
 - Locations: Zhytomyr, Kyiv
-- Companies: "Meat Guild," "Zolotava"
+- Companies: "Meat Guild" "Zolotava"
 - Period: 2004 - 2012
 
 *Custom Orders for Taxi Service Complexes*
@@ -18,7 +18,7 @@ Email: rosxxxxx@gmail.com
 - Period: 2010 - 2017
 
 *Product Developer for a Financial Organization*
-- Company: LLC "Credit-Comerce," Kyiv
+- Company: LLC "Credit-Comerce" Kyiv
 - Period: 2016 - 2019
 
 *Project Manager*
