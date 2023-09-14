@@ -19,6 +19,7 @@
   - [swagger](https://swagger.io/) (Serve Swagger/OpenAPI documentation for Fastify, supporting dynamic generation)
   - [EventBus](https://www.npmjs.com/package/node-pm2-events) (Data exchange between instances of pm2 services located
     on decentralized servers (virtual machines), etc.)
+  - [Node-Red](https://nodered.org/) - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
   - [PM2](https://pm2.keymetrics.io/) (Advanced, production process manager for Node.js)
     * An ecosystem of 10 instances of microservices for api requests, controlled by the [PM2](https://pm2.keymetrics.io/) process manager as well as
       load balancing distribution.
