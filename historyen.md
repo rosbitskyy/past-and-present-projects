@@ -2,8 +2,8 @@
 ---
 
 ### Ruslan Rosbitskyy
-Phone: +38067xxxxxxx
-Email: rosxxxxx@gmail.com
+- Phone: +38067xxxxxxx
+- Email: rosxxxxx@gmail.com
 ---
 
 ### Work Experience:
