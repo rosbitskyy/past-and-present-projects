@@ -4,6 +4,7 @@
 ### Руслан Станіславович Розбицький
 - Телефон: +38067xxxxxxx
 - Емайл: rosxxxxxx@gmail.com
+---
 
 ### [Досвід роботи](https://www.linkedin.com/in/rosbitskyy/):
 
