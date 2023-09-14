@@ -1,7 +1,7 @@
 
 ---
 
-### Ruslan Stanislavovych Rosbitskyy
+### Ruslan Rosbitskyy
 Phone: +38067xxxxxxx
 Email: rosxxxxx@gmail.com
 ---
